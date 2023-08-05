@@ -1,4 +1,4 @@
-### Olá, eu sou o Marcelo. Dev Full-stack. Entre em contato:
+### Olá, eu sou o Marcelo. Dev Full-stack. 
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
 
