@@ -1,10 +1,5 @@
 ### Olá, eu sou o Marcelo. Dev Full-stack. Entre em contato:
 
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csnicolela.marcelo@gmail.com)
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-castro-silva-nicolela-15635a231/)
-
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocsn)](https://github.com/marcelocsn/github-readme-stats)
