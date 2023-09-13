@@ -2,8 +2,7 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocsn)](https://github.com/marcelocsn/github-readme-stats)
-</a>
+
 
 ## Tecnologias que utilizo diariamente
 
